@@ -1,1 +1,1 @@
-# painttix
+# paintix
